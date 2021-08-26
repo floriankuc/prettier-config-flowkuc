@@ -24,25 +24,25 @@ module.exports = {
     },
     {
       files: ['*.yaml'],
-	options: {
-			parser: 'yaml',
-			useTabs: false,
-			tabWidth: 2,
-		},
-	},
-	{
-		files: '.prettierrc',
-		options: {
-			parser: 'json',
-			useTabs: false,
-			tabWidth: 2,
-		},
-	},
-	{
-		files: '*.less',
-		options: {
-			printWidth: 100,
-		},
-	},
-],
+      options: {
+	parser: 'yaml',
+	useTabs: false,
+	tabWidth: 2,
+      },
+    },
+    {
+      files: '.prettierrc',
+      options: {
+	parser: 'json',
+	useTabs: false,
+	tabWidth: 2,
+      },
+    },
+    {
+      files: '*.less',
+      options: {
+	printWidth: 100,
+      },
+    },
+  ],
 };
