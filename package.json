@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-flowkuc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Custom prettier config",
   "repository": "https://github.com/floriankuc/prettier-config-flowkuc.git",
   "keywords": ["Prettier"],
