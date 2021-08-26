@@ -35,6 +35,7 @@ module.exports = {
 			options: {
 				parser: 'json',
 				useTabs: false,
+				tabWidth: 2,
 			},
 		},
 		{
